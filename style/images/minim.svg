@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="30"
+   height="30"
+   viewBox="0 0 4.8180011 4.818001"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="minim.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="708"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <rect
+     style="fill:#f9f6f2;fill-opacity:1"
+     id="rect60"
+     y="0.38299531"
+     x="2.8318644"
+     ry="0.039999999"
+     height="3.2386"
+     width="0.13" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#f9f6f2;fill-opacity:1"
+     id="path62"
+     d="m 2.831863,3.6230057 c 0,-0.096 -0.084,-0.164 -0.168,-0.164 -0.016,0 -0.032,0 -0.048,0.004 -0.124,0.036 -0.308,0.16 -0.456,0.256 -0.148,0.096 -0.336,0.212 -0.416,0.312 -0.028,0.032 -0.044,0.072 -0.044,0.112 0,0.096 0.084,0.164 0.168,0.164 0.016,0 0.032,0 0.048,-0.004 0.124,-0.036 0.312,-0.16 0.46,-0.256 0.148,-0.096 0.336,-0.212 0.416,-0.312 0.028,-0.032 0.04,-0.072 0.04,-0.112 z m -0.204,-0.288 c 0.188,0 0.332,0.084 0.332,0.288 0,0.076 -0.016,0.148 -0.04,0.224 -0.048,0.152 -0.128,0.296 -0.26,0.384 -0.216,0.144 -0.452,0.204 -0.752,0.204 -0.188,0 -0.336,-0.088 -0.336,-0.292 0,-0.076 0.02,-0.148 0.044,-0.224 0.048,-0.152 0.124,-0.296 0.256,-0.384 0.216,-0.144 0.456,-0.2 0.756,-0.2 z" />
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs76" />
+</svg>

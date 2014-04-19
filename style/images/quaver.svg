@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="30"
+   height="30"
+   viewBox="0 0 4.8180011 4.818001"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="quaver.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="-4.8305085"
+     inkscape:cy="15"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#776e65;fill-opacity:1"
+     id="path46"
+     d="m 2.888063,0.42300512 c 0,0.79199998 0.836,1.33999988 0.836,2.13199988 0,0.284 -0.064,0.5640007 -0.168,0.8280007 -0.02,0.032 -0.048,0.048 -0.076,0.048 -0.052,0 -0.104,-0.044 -0.092,-0.108 0.104,-0.244 0.168,-0.5040007 0.168,-0.7680007 0,-0.416 -0.38,-0.8319999 -0.668,-1.1319999 h -0.064 V 0.42300512 h 0.064 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#776e65;fill-opacity:1"
+     id="path54"
+     d="m 2.451863,3.3310057 c 0.224,0 0.436,0.116 0.436,0.364 0,0.288 -0.224,0.484 -0.412,0.596 -0.144,0.084 -0.304,0.144 -0.468,0.144 -0.224,0 -0.436,-0.116 -0.436,-0.364 0,-0.288 0.224,-0.484 0.412,-0.596 0.144,-0.084 0.304,-0.144 0.468,-0.144 z" />
+  <rect
+     style="fill:#776e65;fill-opacity:1"
+     id="rect66"
+     y="0.38299531"
+     x="2.7580628"
+     ry="0.039999999"
+     height="3.3122001"
+     width="0.13" />
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs76" />
+</svg>
